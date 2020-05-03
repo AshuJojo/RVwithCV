@@ -1,0 +1,2 @@
+rootProject.name='RVwithCV'
+include ':app'
